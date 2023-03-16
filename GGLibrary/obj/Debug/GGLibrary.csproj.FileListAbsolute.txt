@@ -1,0 +1,12 @@
+C:\Users\Volodya\source\repos\GraphicsGeometry\GGLibrary\bin\Debug\GGLibrary.dll
+C:\Users\Volodya\source\repos\GraphicsGeometry\GGLibrary\bin\Debug\GGLibrary.pdb
+C:\Users\Volodya\source\repos\GraphicsGeometry\GGLibrary\obj\Debug\GGLibrary.csproj.AssemblyReference.cache
+C:\Users\Volodya\source\repos\GraphicsGeometry\GGLibrary\obj\Debug\GGLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Volodya\source\repos\GraphicsGeometry\GGLibrary\obj\Debug\GGLibrary.dll
+C:\Users\Volodya\source\repos\GraphicsGeometry\GGLibrary\obj\Debug\GGLibrary.pdb
+E:\учёба\C#\GraphicsGeometry\GGLibrary\bin\Debug\GGLibrary.dll
+E:\учёба\C#\GraphicsGeometry\GGLibrary\bin\Debug\GGLibrary.pdb
+E:\учёба\C#\GraphicsGeometry\GGLibrary\obj\Debug\GGLibrary.csproj.AssemblyReference.cache
+E:\учёба\C#\GraphicsGeometry\GGLibrary\obj\Debug\GGLibrary.csproj.CoreCompileInputs.cache
+E:\учёба\C#\GraphicsGeometry\GGLibrary\obj\Debug\GGLibrary.dll
+E:\учёба\C#\GraphicsGeometry\GGLibrary\obj\Debug\GGLibrary.pdb
